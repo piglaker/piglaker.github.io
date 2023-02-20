@@ -38,10 +38,7 @@ An NLP researcher.
 
 # Other Experience
 
-As an undergraduate student, I did some work applying 
-computer technology to the field of civil engineering, 
-and through programming and machine learning technology, 
-I helped teachers and students of Tongji University, College of Design realize some ideas and ideas.
+As an undergraduate student, I did some work applying computer technology to the field of civil engineering, and through programming and machine learning technology, I helped teachers and students of Tongji University, College of Design realize some ideas.
 
 # Past Projects
 
