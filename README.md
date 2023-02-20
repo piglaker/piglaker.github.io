@@ -5,9 +5,9 @@ Shanghai, China
 
 E-mail:piglaker@gmail.com
 
-## About me
+# About me
 
-An NLP researcher who wants to see change.
+An NLP researcher.
 
 ```markdown
 # Interests:
@@ -22,13 +22,6 @@ An NLP researcher who wants to see change.
 - M.E., Computer Science, Fudan University, 2024
 
 - B.E., Civil Engineering, Tongji University, 2022
-
-# Past Projects
-
-[github](https://github.com/piglaker)
-
-[MOSS](https://txsun1997.github.io/blogs/moss.html)
-
 
 # Courses
 
@@ -48,6 +41,8 @@ As an undergraduate student, I did some work applying computer technology to the
 
 ```
 
-### My Story
+# Past Projects
 
-to be continued ...
+[Github](https://github.com/piglaker)
+
+[MOSS](https://txsun1997.github.io/blogs/moss.html)
