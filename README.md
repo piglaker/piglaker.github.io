@@ -9,13 +9,11 @@ E-mail:piglaker@gmail.com
 
 An NLP researcher.
 
-```markdown
-# Interests:
+# Interests
 
 - Artificial Intelligence, Mathematics and Literature, 
 
 - Bouldering, Swimming and Traveling
-
 
 # Education Experience
 
@@ -26,6 +24,7 @@ An NLP researcher.
 # Courses
 
 ## Self-study courses
+
     · Data Structure, Zhejiang University, Online
     · Operating System, MIT 6.828
     · Computer Organization and Design, 
@@ -33,14 +32,16 @@ An NLP researcher.
     · Introduction to Computing Theory, 
 
 ## Campus courses
+
     · Deep learning, Tongji University,
     · Numerical Computation, Tongji University,
 
 # Other Experience
-As an undergraduate student, I did some work applying computer technology to the field of civil engineering, 
-and through programming and machine learning technology, I helped teachers and students of Tongji University School of Design realize some ideas and ideas.
 
-```
+As an undergraduate student, I did some work applying 
+computer technology to the field of civil engineering, 
+and through programming and machine learning technology, 
+I helped teachers and students of Tongji University, College of Design realize some ideas and ideas.
 
 # Past Projects
 
