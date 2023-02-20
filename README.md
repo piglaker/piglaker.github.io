@@ -24,8 +24,8 @@ An NLP researcher who wants to see change.
 
 # Past Projects
 
-[github](https://github.com/piglaker)
-[MOSS](https://txsun1997.github.io/blogs/moss.html)
+[github]:(https://github.com/piglaker)
+[MOSS]:(https://txsun1997.github.io/blogs/moss.html)
 ```
 
 ### My Story
