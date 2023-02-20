@@ -1,41 +1,33 @@
 ## Piglaker
 
 
-Xiaotian Zhang(张啸天)
-
-E-mail:piglaker@gmail.com
+Xiaotian Zhang(张啸天) \
+Shanghai, China \
+E-mail:piglaker@gmail.com 
 
 
 ### About me
 
-NLP researcher
-
+An NLP researcher who wants to see change.
 
 
 ```markdown
-Syntax highlighted code block
+# Interests: 
+- Artificial Intelligence, Mathematics and Literature, 
+- Bouldering, Swimming and Traveling
 
-# Header 1
-## Header 2
-### Header 3
+# Education Experience
 
-- Bulleted
-- List
+- M.E., Computer Science, Fudan University, 2024
 
-1. Numbered
-2. List
+- B.E., Civil Engineering, Tongji University, 2022
 
-**Bold** and _Italic_ and `Code` text
+# Past Projects
 
-[Link](url) and ![Image](src)
+[github](https://github.com/piglaker)
+[MOSS](https://txsun1997.github.io/blogs/moss.html)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### My Story
+to be continued ... 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/piglaker/piglaker.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
