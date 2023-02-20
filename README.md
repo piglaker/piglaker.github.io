@@ -30,6 +30,23 @@ An NLP researcher who wants to see change.
 
 [MOSS](https://txsun1997.github.io/blogs/moss.html)
 
+
+# Courses
+
+## Self-study courses
+    · Data Structure, Zhejiang University, Online
+    · Operating System, MIT 6.828
+    · Computer Organization and Design, 
+    · Mathematical Analysis, 
+    · Introduction to Computing Theory, 
+
+## Campus courses
+    · Deep learning, Tongji University,
+    · Numerical Computation, Tongji University,
+
+# Other Experience
+As an undergraduate I did some work applying computer technology to the field of civil engineering,
+
 ```
 
 ### My Story
