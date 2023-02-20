@@ -9,17 +9,17 @@ E-mail:piglaker@gmail.com
 
 An NLP researcher.
 
-# Interests
+## Interests
 
-- Artificial Intelligence, Mathematics and Literature, 
+    - Artificial Intelligence, Mathematics and Literature 
 
-- Bouldering, Swimming and Traveling
+    - Boulder, Swimming and Traveling
 
-# Education Experience
+## Education Experience
 
-- M.E., Computer Science, Fudan University, 2024
+    - M.E., Computer Science, Fudan University, 2024
 
-- B.E., Civil Engineering, Tongji University, 2022
+    - B.E., Civil Engineering, Tongji University, 2022
 
 # Courses
 
