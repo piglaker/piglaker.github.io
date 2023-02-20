@@ -9,7 +9,7 @@ E-mail:piglaker@gmail.com
 
 An NLP researcher.
 
-My research direction includes grammatical error correction and dialogue systems, and now I am mainly interested in general artificial intelligence and the inference optimization and deployment for Large Language Models .
+My research direction includes grammatical error correction and 1dialogue systems, and now I am mainly interested in artificial general intelligence(AGI) and the inference optimization and deployment for Large Language Models(LLM).
 
 ## Interests
 
