@@ -45,7 +45,7 @@ An NLP researcher who wants to see change.
     · Numerical Computation, Tongji University,
 
 # Other Experience
-As an undergraduate I did some work applying computer technology to the field of civil engineering,
+As an undergraduate student, I did some work applying computer technology to the field of civil engineering, and through programming and machine learning technology, I helped teachers and students of Tongji University School of Design realize some ideas and ideas.
 
 ```
 
