@@ -1,20 +1,22 @@
-## Piglaker
+# Piglaker
 
+Xiaotian Zhang(张啸天)
 
-Xiaotian Zhang(张啸天) \
-Shanghai, China \
-E-mail:piglaker@gmail.com 
+Shanghai, China
 
+E-mail:piglaker@gmail.com
 
-### About me
+## About me
 
 An NLP researcher who wants to see change.
 
-
 ```markdown
-# Interests: 
+# Interests:
+
 - Artificial Intelligence, Mathematics and Literature, 
+
 - Bouldering, Swimming and Traveling
+
 
 # Education Experience
 
@@ -24,10 +26,12 @@ An NLP researcher who wants to see change.
 
 # Past Projects
 
-[github]:(https://github.com/piglaker)
-[MOSS]:(https://txsun1997.github.io/blogs/moss.html)
+[github](https://github.com/piglaker)
+
+[MOSS](https://txsun1997.github.io/blogs/moss.html)
+
 ```
 
 ### My Story
-to be continued ... 
 
+to be continued ...
